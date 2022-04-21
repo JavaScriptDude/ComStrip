@@ -76,8 +76,8 @@ If you want to play around without having to install, just do a git checkout of 
 ```
 
 ### TODO:
-[.] Make proper installer for system to get comstrip command working without alias
-[.] Port to Windows
-[.] Verify in Cygwin and MacOs
-[.] Build out proper testing
-[.] Implement leading tab handling
+- [.] Make proper installer for system to get comstrip command working without alias
+- [.] Port to Windows
+- [.] Verify in Cygwin and MacOs
+- [.] Build out proper testing
+- [.] Implement leading tab handling
