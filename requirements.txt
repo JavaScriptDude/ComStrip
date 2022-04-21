@@ -1,0 +1,4 @@
+thefuzz
+python-Levenshtein
+tiotrap
+texttable
